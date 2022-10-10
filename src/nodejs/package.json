@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-api-svc",
+  "version": "1.0.0",
+  "description": "API Micro-service with NodeJs/Fastify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.7.0"
+  }
+}
